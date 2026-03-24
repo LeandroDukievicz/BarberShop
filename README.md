@@ -1,21 +1,57 @@
-<div align = "center ">
+# 💈 BarberShop
 
-<img align="left" width=100px src="https://github.com/LeandroDukievicz/BarberShop/blob/main/img/chair-ic.png"/>
-<img align="right" width=100px src="https://github.com/LeandroDukievicz/BarberShop/blob/main/img/shave-brush-no-bg.png"/>
+Projeto de uma landing page moderna para barbearia, desenvolvido com foco em **boas práticas de HTML semântico, CSS organizado e responsividade**.
 
-# Projeto Barber Shop <br>
+> Este projeto faz parte da minha jornada de evolução como desenvolvedor Front-End.
 
-<img width=200px src="https://github.com/LeandroDukievicz/BarberShop/blob/main/img/heading-ic-white.png"/> <br><br>
-
-#### Projeto para fixar os conhecimentos em CSS e trabalhar com grid e flex box, além de boas práticas, projeto desenvolvido e abordado dentro do curso do [Thiago Medeiros](https://github.com/thiagommedeiros?tab=overview&from=2023-03-01&to=2023-03-13)
-  
-#
-  
+---
 
 
-  
-<div align="center">
-  <h4>Visite o Projeto clicando no ícone abaixo:</h4>
-  <a  href="https://barberhop-dukievicz.vercel.app/" target="_blank"><img  height="150em"src="https://github.com/LeandroDukievicz/BarberShop/blob/main/img/logo.png" target="_blank">
-</div>            
-  
+## 🧠 Sobre o Projeto
+
+O **BarberShop** foi desenvolvido como um projeto prático para consolidar fundamentos essenciais de front-end, com foco em:
+
+- Estruturação semântica com HTML5
+- Estilização moderna com CSS3
+- Layout responsivo utilizando **Flexbox e Grid**
+- Reutilização de código com variáveis CSS
+- Aplicação de efeitos visuais (hover, parallax)
+
+A proposta foi simular uma landing page real de barbearia, trazendo elementos comuns do mercado como:
+
+- Hero section com destaque visual
+- Sessão de serviços
+- Call to Actions (CTA)
+- Layout limpo e direto
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Variáveis CSS
+
+---
+
+## ✨ Funcionalidades
+
+- 📱 Layout responsivo
+- 🎨 Estilização moderna e limpa
+- 🧩 Organização de código escalável
+- 🖱️ Efeitos de hover em botões
+- 🌄 Efeito parallax na seção principal
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+BarberShop/
+├── index.html
+├── css/
+│   ├── styles.css
+├── assets/
+│   ├── images/
